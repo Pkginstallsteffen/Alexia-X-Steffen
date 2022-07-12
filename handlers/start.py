@@ -8,7 +8,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
 @Client.on_message(command("start") & filters.private & ~filters.group & ~filters.edited)
 async def start_(client: Client, message: Message):
-    await message.reply_sticker("CAACAgUAAxkBAAEENxZiNtPdibVkMsjLZrUG9NK4hotHQgAC2wEAAoM12VSdN9ujxVtnUyME")
+    
     await message.reply_photo(
         photo=f"{START_IMG}",
         caption=f"""**━━━━━━━━━━━━━━━━━━
@@ -23,7 +23,7 @@ async def start_(client: Client, message: Message):
 ┣★
 ┗━━━━━━━━━━━━━━┛
 
-💞 ꜰᴏʀ ᴀɴʏ ǫᴜᴇʀɪᴇs ᴅᴍ [ᴏᴡɴᴇʀ](t.me/{me}) ʙᴀʙʏ...
+💞 ꜰᴏʀ ᴀɴʏ ǫᴜᴇʀɪᴇs ᴅᴍ @STEFFEN999
 ━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
@@ -33,7 +33,7 @@ async def start_(client: Client, message: Message):
                        ),
                   ],[
                     InlineKeyboardButton(
-                        "💔 ᴏᴡɴᴇʀ 💔", url=f"https://t.me/{me}"
+                        "👑 ᴏᴡɴᴇʀ 👑", url="https://t.me/STEFFEN999"
                     ),
                     InlineKeyboardButton(
                         "🍒 sᴜᴘᴘᴏʀᴛ 🍒", url=f"https://t.me/{SUPPORT_GROUP}"
