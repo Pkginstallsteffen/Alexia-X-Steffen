@@ -70,7 +70,7 @@ The easiest way to host this bot, Deploy on Heroku, Change the app country to Eu
 The second easiest way to host this bot, Deploy on Okteto Cloud
 
 ### ᴄʀᴇᴅɪᴛs 👑
-- [𝐈𝛕ᷟ͢𝚣⃪ꙴ➳⃝🇸ᴛᴇꜰꜰᴇɴ 999  𓆩🇮🇳𓆪](https://github.com/Pkginstallsteffen): Developer
+- [STEFFEN 999  𓆩🇮🇳𓆪](https://github.com/Pkginstallsteffen): Developer
 - [𓆩🇦ʟᴇxɪᴀメ🇸ᴛᴇꜰꜰᴇɴ𓆪⁩ 🎧](http://t.me/alexiaXsteffen_bot): Use this Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
