@@ -93,8 +93,9 @@ python3 main.py # Run the bot
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ### Support & Developer 🎑
-<a href="https://telegram.me/steffen999"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/we_love_eachother"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="https://telegram.me/steffen999"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/About_Steffen999"><img src="https://img.shields.io/badge/%20About_me-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ------------------------------------------------
 -------------------------------------------------
