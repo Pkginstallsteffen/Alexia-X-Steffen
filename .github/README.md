@@ -69,26 +69,9 @@ The easiest way to host this bot, Deploy on Heroku, Change the app country to Eu
 <p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/AnonymousR1025/FallenMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
 The second easiest way to host this bot, Deploy on Okteto Cloud
 
-## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
-
-```sh
-sudo apt update && apt upgrade -y
-sudo apt install git curl python3-pip ffmpeg -y
-pip3 install -U pip
-curl -sL https://deb.nodesource.com/setup_16.x | bash -
-sudo apt-get install -y nodejs
-npm i -g npm
-git clone https://github.com/AnonymousR1025/FallenMusic # Clone your repo.
-cd FallenMusic
-pip3 install -U -r requirements.txt
-cp example.env .env #Use vim to edit ENVs
-vim .env #Fill up your ENVs ( Steps press i to enter in insert mode then edit the file. Press Esc to exit the editing mode then type :wq! and press Enter key to save the file.)
-python3 main.py # Run the bot
-```
-
-### ᴄʀᴇᴅɪᴛs 💖
-- [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousR1025): Developer
-- [Fallen Music Bot](https://telegram.me/fallen_music_bot): Test Bot
+### ᴄʀᴇᴅɪᴛs 👑
+- [𝐈𝛕ᷟ͢𝚣⃪ꙴ➳⃝🇸ᴛᴇꜰꜰᴇɴ 999  𓆩🇮🇳𓆪](https://github.com/Pkginstallsteffen): Developer
+- [𓆩🇦ʟᴇxɪᴀメ🇸ᴛᴇꜰꜰᴇɴ𓆪⁩ 🎧](http://t.me/alexiaXsteffen_bot): Use this Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
