@@ -2,7 +2,7 @@
     <br><b>😫 𓆩🇦ʟᴇxɪᴀメ🇸ᴛᴇꜰꜰᴇɴ𓆪⁩ 🎧
  😫</b><br>
 </p>
-<p align="center"><a href="https://t.me/we_love_eachother"><img src>="https://te.legra.ph/file/24ffa4efbd375a2e39ad9.jpg"></a></p>
+<p align="center"><a href="https://t.me/we_love_eachother"><img src="https://te.legra.ph/file/24ffa4efbd375a2e39ad9.jpg"></a></p>
 
 Hey Baby this  is a advance &  one of the fastest Telegram Bot  that allows you to stream music on  Telegram Voice Chat.</b><br>
 <br>
