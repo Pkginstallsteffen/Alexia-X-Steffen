@@ -2,7 +2,7 @@
   "name": "ғᴀʟʟᴇɴ ᴍᴜsɪᴄ",
   "logo": "https://telegra.ph/file/89cbc8b8760b6abff430f.jpg",
   "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
-  "keywords": ["music", "voicechat", "telegram", "fallen"],
+  "keywords": ["music", "voicechat", "telegram", "steffen"],
   "repository": "https://github.com/Pkginstallsteffen/Alexia-X-Steffen",
   "stack": "container",
   "env": {
@@ -45,7 +45,7 @@
     "SUDO_USERS": {
       "description": "User IDs of the users who will counted as admin everywhere (if more than one separate them by space).",
       "required": true,
-      "value": "1356469075"
+      "value": "5500487064"
     },
     "START_IMG": {
       "description": "Telegraph link of the pic which you want to set as the start pic of your bot",
