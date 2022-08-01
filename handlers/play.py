@@ -178,7 +178,7 @@ async def play(_, message: Message):
             secmul, dur, dur_arr = 1, 0, duration.split(":")
             for i in range(len(dur_arr) - 1, -1, -1):
                 dur += int(dur_arr[i]) * secmul
-                secmul *= 120
+                secmul *= 60
 
         except Exception as e:
             await fallen.edit(
@@ -227,8 +227,8 @@ async def play(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("• sᴜᴩᴩᴏʀᴛ •", url=f"https://t.me/{SUPPORT_GROUP}"),
-                    InlineKeyboardButton("» ᴄʟᴏsᴇ «", callback_data="close_play")
+                    InlineKeyboardButton("😘sᴜᴩᴩᴏʀᴛ ᴊᴏɪɴ😘", url=f"https://t.me/{SUPPORT_GROUP}"),
+                    InlineKeyboardButton("» 😘ᴄʟᴏsᴇ😘 «", callback_data="close_play")
                 ],
             ]
         ),
