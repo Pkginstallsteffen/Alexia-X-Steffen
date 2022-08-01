@@ -55,7 +55,7 @@ async def play(_, message: Message):
 
     await message.delete()
 
-    fallen = await message.reply("» ᴘʀᴏᴄᴇssɪɴɢ​... ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ ʙᴀʙʏ🔎")
+    fallen = await message.reply("» ᴘʀᴏᴄᴇssɪɴɢ​... ᴛʜᴏᴅᴀ ᴡᴀɪᴛ ᴋʀ ʟᴏ ɴᴀ ᴊᴀᴀɴ🥺😘")
 
     chumtiya = message.from_user.mention
 
@@ -65,7 +65,7 @@ async def play(_, message: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Anonymous"
+        user.first_name = "Steffen"
     usar = user
     wew = usar.id
     try:
