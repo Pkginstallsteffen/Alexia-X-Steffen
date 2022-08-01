@@ -178,11 +178,11 @@ async def play(_, message: Message):
             secmul, dur, dur_arr = 1, 0, duration.split(":")
             for i in range(len(dur_arr) - 1, -1, -1):
                 dur += int(dur_arr[i]) * secmul
-                secmul *= 60
+                secmul *= 120
 
         except Exception as e:
             await fallen.edit(
-                "»ʙᴋᴋ ɴᴏᴛ ғᴏᴜɴᴅ ʏᴀʀʀ🥺, ᴛʀʏ sᴇᴀʀᴄʜɪɴɢ ᴡɪᴛʜ ᴛʜᴇ sᴏɴɢ ɴᴀᴍᴇ ʙᴀʙʏ"
+                "»ʙᴋᴋ ɴᴏᴛ ғᴏᴜɴᴅ ʏᴀʀʀ🥺, ᴋᴇᴇᴘ sᴇᴀʀᴄʜɪɴɢ ᴡɪᴅ ᴛʜᴇ sᴏɴɢ ɴᴀᴍᴇ ᴊᴀᴀᴀɴ🥺💞"
             )
             print(str(e))
             return
