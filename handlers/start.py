@@ -21,7 +21,7 @@ async def start_(client: Client, message: Message):
 ┣6𝘁𝗵-𝗚𝗲𝗻 𝗶𝗻𝗯𝘂𝗶𝗹𝘁 𝘀𝘆𝘀𝘁𝗲𝗺😍
 ┣༒︎𝗛𝗶𝘁𝗲𝗰𝗵 𝗘𝗻𝗴𝗶𝗻𝗲༒︎
 ┣💞𝐋𝐚𝐠 𝐟𝐫𝐞𝐞 & 𝐮𝐥𝐭𝐫𝐚 𝐪𝐮𝐚𝐥𝐢𝐭𝐲💞
-┣🎯𝗠𝗼𝗿𝗲 𝗳𝗲𝗮𝘂𝘁𝘂𝗿𝗲𝘀 𝘀𝗼𝗼𝗻🎯
+┣𝗠𝗼𝗿𝗲 𝗳𝗲𝗮𝘂𝘁𝘂𝗿𝗲𝘀 𝘀𝗼𝗼𝗻
 ┣𝗕𝗲𝗰𝗼𝗺𝗲 𝗩𝗶𝗽 𝘂𝘀𝗲𝗿 & 𝘁𝗼 𝗴𝗲𝘁 𝗲𝘅𝗰𝗶𝘁𝗶𝗻𝗴 𝗳𝗲𝗮𝘂𝘁𝘂𝗿𝗲𝘀 
  𝗹𝗶𝗸𝗲 𝗶𝗴 𝗳𝗼𝗹𝗹𝘄𝗲𝗿𝘀,𝗺𝗲𝗺𝗯𝗲𝗿 𝗮𝗱𝗱𝗶𝗻𝗴 𝘀𝗰𝗿𝗶𝗽𝘁
  𝗷𝗼𝗶𝗻 𝗼𝘂𝗿 𝗧𝗦𝗛 𝗰𝗹𝗮𝗻 - @TSH_CLAN_ORG
@@ -33,21 +33,21 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🥺 ᴀᴅᴅ ᴋʀᴏ ɴᴀ ʙᴀʙʏ 🥺", url=f"https://t.me/{bu}?startgroup=true"
+                        "𝐀𝐝𝐝 𝐤𝐫𝐨𝐨 𝐧𝐚𝐚 𝐣𝐚𝐚𝐚𝐧 😘", url=f"https://t.me/{bu}?startgroup=true"
                        ),
                   ],[
                     InlineKeyboardButton(
                         "👑 ᴏᴡɴᴇʀ 👑", url="https://t.me/STEFFEN999"
                     ),
                     InlineKeyboardButton(
-                        "🍒 sᴜᴘᴘᴏʀᴛ 🍒", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "🍒 sᴜᴘᴘᴏʀᴛ 🍒", url="https://t.me/we_love_eachother"
                     )
                 ],[
                     InlineKeyboardButton(
                         "💦 ᴛsʜ ᴄʟᴀɴ 💦", url= "https://t.me/TSH_CLAN_ORG"
                     ),
                     InlineKeyboardButton(
-                        "🎾 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🎾", url="https://github.com/Pkginstallsteffen/Alexia-X-Steffen"
+                        "🍑 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ🍑", url="https://github.com/Pkginstallsteffen/Alexia-X-Steffen"
                     )]
             ]
        ),
