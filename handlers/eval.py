@@ -34,7 +34,7 @@ async def edit_or_reply(msg: Message, **kwargs):
 @sudo_users_only
 async def executor(client, message):
     if len(message.command) < 2:
-        return await edit_or_reply(message, text="__ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ sᴏ ɪ ᴡɪʟʟ ᴛʀʏ ᴛᴏ ᴇxᴇᴄᴜᴛᴇ ɪᴛ.__")
+        return await edit_or_reply(message, text="__𝐚𝐛𝐞𝐞 𝐲𝐚𝐚𝐫 𝐠𝐢𝐯𝐞 𝐬𝐨𝐦𝐞 𝐭𝐞𝐱𝐭 𝐬𝐨 𝐭𝐡𝐚𝐭 𝐦𝐲 𝐬𝐲𝐬𝐭𝐞𝐦 𝐜𝐚𝐧 𝐞𝐱𝐜𝐮𝐭𝐞 𝐢𝐭 😒.__")
     try:
         cmd = message.text.split(" ", maxsplit=1)[1]
     except IndexError:
